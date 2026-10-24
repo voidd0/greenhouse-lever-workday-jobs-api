@@ -1,0 +1,10 @@
+{
+  "companies": [
+    "https://job-boards.greenhouse.io/discord",
+    "https://jobs.lever.co/spotify",
+    "https://apply.workable.com/huggingface"
+  ],
+  "includeDescription": true,
+  "maxItems": 50,
+  "maxJobsPerCompany": 20
+}
