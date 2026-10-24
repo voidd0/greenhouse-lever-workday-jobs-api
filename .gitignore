@@ -1,0 +1,5 @@
+seen_jobs.json
+jobs.csv
+__pycache__/
+.env
+node_modules/

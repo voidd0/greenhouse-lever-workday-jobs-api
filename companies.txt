@@ -1,0 +1,5 @@
+# One careers page link per line. Lines starting with # are skipped.
+https://job-boards.greenhouse.io/discord
+https://jobs.lever.co/spotify
+https://jobs.ashbyhq.com/notion
+https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
